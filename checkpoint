@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/ivanmac/Desktop/Kaggle/Dogs_vs_cats/CNN.model"
+all_model_checkpoint_paths: "/Users/ivanmac/Desktop/Kaggle/Dogs_vs_cats/CNN.model"
